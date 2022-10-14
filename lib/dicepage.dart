@@ -18,8 +18,7 @@ class _DicePageState extends State<DicePage> {
     
         Expanded( 
           
-          //as pixel over is happening
-          //flex: 2, property to resize  the ratio of one dice two another size but explands properly
+         
           
 child:Padding( //left dice
   padding: EdgeInsets.all(16),
